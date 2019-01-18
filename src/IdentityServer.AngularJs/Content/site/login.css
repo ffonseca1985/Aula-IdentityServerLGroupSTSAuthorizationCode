@@ -1,0 +1,17 @@
+﻿
+
+/*param usarmos o animate, precisamos analisar o fluxo (estado)
+inicial e final*/
+
+/*Estado Inicial*/
+.error-login.ng-enter{
+    opacity: 0;
+    transition: 1s linear all;
+    -webkit-transition: 1s linear all;
+}
+
+/*Estado Final*/
+.error-login.ng-enter-active{
+    opacity: 1;
+    max-height:100%;
+}

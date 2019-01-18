@@ -1,0 +1,176 @@
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\roslyn\csc.exe
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\roslyn\System.Collections.Immutable.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\roslyn\vbc.exe
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\roslyn\VBCSCompiler.exe
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\roslyn\VBCSCompiler.exe.config
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\IdentityServer.STS.dll.config
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\IdentityServer.STS.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\IdentityServer.STS.pdb
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\IdentityServer3.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\Microsoft.AI.Web.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\Microsoft.AI.WindowsServer.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\Microsoft.ApplicationInsights.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\Microsoft.Owin.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\Microsoft.Owin.Security.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\Owin.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\IdentityServer3.pdb
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\IdentityServer3.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\Microsoft.AI.Web.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\Microsoft.AI.WindowsServer.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\Microsoft.ApplicationInsights.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\Microsoft.Owin.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\Microsoft.Owin.Security.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\obj\Debug\IdentityServer.STS.csprojResolveAssemblyReference.cache
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\obj\Debug\IdentityServer.STS.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\obj\Debug\IdentityServer.STS.pdb
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\IdentityServerShared.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServer.STS\bin\IdentityServerShared.pdb
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\csc.exe
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\System.Collections.Immutable.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\vbc.exe
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\VBCSCompiler.exe
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\VBCSCompiler.exe.config
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServer.STS.dll.config
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServer.STS.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServer.STS.pdb
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServer3.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServerShared.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.Web.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.WindowsServer.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.ApplicationInsights.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.Owin.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.Owin.Security.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Owin.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServerShared.pdb
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServer3.pdb
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServer3.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.Web.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.WindowsServer.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.ApplicationInsights.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.Owin.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.Owin.Security.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\obj\Debug\IdentityServer.STS.csprojResolveAssemblyReference.cache
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\obj\Debug\IdentityServer.STS.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\obj\Debug\IdentityServer.STS.pdb
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\csc.exe
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\System.Collections.Immutable.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\vbc.exe
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\VBCSCompiler.exe
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\VBCSCompiler.exe.config
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServer.STS.dll.config
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServer.STS.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServer.STS.pdb
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServer3.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServerShared.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.Web.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.WindowsServer.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.ApplicationInsights.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.Owin.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.Owin.Security.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Owin.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServerShared.pdb
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServer3.pdb
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServer3.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.Web.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.WindowsServer.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.ApplicationInsights.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.Owin.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.Owin.Security.xml
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\obj\Debug\IdentityServer.STS.csprojResolveAssemblyReference.cache
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\obj\Debug\IdentityServer.STS.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\obj\Debug\IdentityServer.STS.pdb
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\csc.exe
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\System.Collections.Immutable.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\vbc.exe
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\VBCSCompiler.exe
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\roslyn\VBCSCompiler.exe.config
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServer.STS.dll.config
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServer.STS.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServer.STS.pdb
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServer3.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServerShared.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.Web.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.WindowsServer.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.ApplicationInsights.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.Owin.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.Owin.Security.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Owin.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServerShared.pdb
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServer3.pdb
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\IdentityServer3.xml
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.Web.xml
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.AI.WindowsServer.xml
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.ApplicationInsights.xml
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.Owin.xml
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\bin\Microsoft.Owin.Security.xml
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\obj\Debug\IdentityServer.STS.csprojResolveAssemblyReference.cache
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\obj\Debug\IdentityServer.STS.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServer.STS\obj\Debug\IdentityServer.STS.pdb

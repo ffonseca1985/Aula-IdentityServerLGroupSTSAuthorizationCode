@@ -1,0 +1,27 @@
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServerShared\bin\Debug\IdentityServerShared.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServerShared\bin\Debug\IdentityServerShared.pdb
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServerShared\obj\Debug\IdentityServerShared.Urls.resources
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServerShared\obj\Debug\IdentityServerShared.csproj.GenerateResource.Cache
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServerShared\obj\Debug\IdentityServerShared.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTS\src\IdentityServerShared\obj\Debug\IdentityServerShared.pdb
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServerShared\bin\Debug\IdentityServerShared.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServerShared\bin\Debug\IdentityServerShared.pdb
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServerShared\obj\Debug\IdentityServerShared.csprojResolveAssemblyReference.cache
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServerShared\obj\Debug\IdentityServerShared.Urls.resources
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServerShared\obj\Debug\IdentityServerShared.csproj.GenerateResource.Cache
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServerShared\obj\Debug\IdentityServerShared.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula6\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServerShared\obj\Debug\IdentityServerShared.pdb
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServerShared\bin\Debug\IdentityServerShared.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServerShared\bin\Debug\IdentityServerShared.pdb
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServerShared\obj\Debug\IdentityServerShared.csprojResolveAssemblyReference.cache
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServerShared\obj\Debug\IdentityServerShared.Urls.resources
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServerShared\obj\Debug\IdentityServerShared.csproj.GenerateResource.Cache
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServerShared\obj\Debug\IdentityServerShared.dll
+C:\Cursos\Autenticacao e Autorizacao .Net\Aula8\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServerShared\obj\Debug\IdentityServerShared.pdb
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServerShared\bin\Debug\IdentityServerShared.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServerShared\bin\Debug\IdentityServerShared.pdb
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServerShared\obj\Debug\IdentityServerShared.csprojResolveAssemblyReference.cache
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServerShared\obj\Debug\IdentityServerShared.Urls.resources
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServerShared\obj\Debug\IdentityServerShared.csproj.GenerateResource.Cache
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServerShared\obj\Debug\IdentityServerShared.dll
+C:\Cursos\Autenticacao e Autorizacao .Net - Turma 3\AulaVazio\IdentityServerLGroup\IdentityServerLGroupSTSAuthorizationCode\src\IdentityServerShared\obj\Debug\IdentityServerShared.pdb

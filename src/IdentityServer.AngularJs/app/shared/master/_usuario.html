@@ -1,0 +1,13 @@
+﻿
+<custom-header cabecalhoexterno="cabecalho">
+</custom-header>
+
+<div class="text-center page-header">
+    <button class="btn btn-default" ng-click="vm.deslogar()">
+        <span class="glyphicon glyphicon-log-out"></span> Deslogar
+    </button>
+    Olá <span ng-bind="vm.usuario.unique_name"></span>
+    / Perfil: <span ng-bind="vm.usuario.role"></span>
+</div>
+
+<ui-view></ui-view>

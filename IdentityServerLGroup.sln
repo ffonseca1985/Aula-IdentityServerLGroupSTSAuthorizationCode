@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer.Mvc2", "src\IdentityServer.Mvc2\IdentityServer.Mvc2.csproj", "{5BBA0B9A-1374-4892-8471-806B2D104212}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer.Mvc1", "src\IdentityServer.Mvc1\IdentityServer.Mvc1.csproj", "{53EEFD08-0824-4877-AC3E-B042A3FCB653}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "IdentityServer.AngularJs", "src\IdentityServer.AngularJs\", "{3E1FDE57-E92A-4AF7-B15C-7ECDF5AD6F96}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64874"
+		Debug.AspNetCompiler.PhysicalPath = "src\IdentityServer.AngularJs\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64874\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64874"
+		Release.AspNetCompiler.PhysicalPath = "src\IdentityServer.AngularJs\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64874\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64874"
+		SlnRelativePath = "src\IdentityServer.AngularJs\"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{EA4187E1-8F2E-4BF1-85CE-7981D6FC1B43}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "STS", "STS", "{164CF201-9F6E-47D9-B25C-34F770D09258}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apis", "Apis", "{42947396-3B61-4AA9-B108-312C32041205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer.WebApi1", "src\IdentityServer.WebApi1\IdentityServer.WebApi1.csproj", "{CD4D8672-7CDC-429C-8A97-9E6777A15A1F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{1D1C2BE7-D3DA-4057-A3DC-01811BC6A9A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServerShared", "src\IdentityServerShared\IdentityServerShared.csproj", "{A8D628C5-431D-43EA-8DE1-B9929980191D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer.STS", "src\IdentityServer.STS\IdentityServer.STS.csproj", "{EB51792C-248A-49F0-A5ED-87C8616C4B60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BBA0B9A-1374-4892-8471-806B2D104212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BBA0B9A-1374-4892-8471-806B2D104212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BBA0B9A-1374-4892-8471-806B2D104212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BBA0B9A-1374-4892-8471-806B2D104212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53EEFD08-0824-4877-AC3E-B042A3FCB653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53EEFD08-0824-4877-AC3E-B042A3FCB653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53EEFD08-0824-4877-AC3E-B042A3FCB653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53EEFD08-0824-4877-AC3E-B042A3FCB653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E1FDE57-E92A-4AF7-B15C-7ECDF5AD6F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1FDE57-E92A-4AF7-B15C-7ECDF5AD6F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1FDE57-E92A-4AF7-B15C-7ECDF5AD6F96}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1FDE57-E92A-4AF7-B15C-7ECDF5AD6F96}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{CD4D8672-7CDC-429C-8A97-9E6777A15A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD4D8672-7CDC-429C-8A97-9E6777A15A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD4D8672-7CDC-429C-8A97-9E6777A15A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD4D8672-7CDC-429C-8A97-9E6777A15A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8D628C5-431D-43EA-8DE1-B9929980191D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D628C5-431D-43EA-8DE1-B9929980191D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D628C5-431D-43EA-8DE1-B9929980191D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D628C5-431D-43EA-8DE1-B9929980191D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB51792C-248A-49F0-A5ED-87C8616C4B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB51792C-248A-49F0-A5ED-87C8616C4B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB51792C-248A-49F0-A5ED-87C8616C4B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB51792C-248A-49F0-A5ED-87C8616C4B60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5BBA0B9A-1374-4892-8471-806B2D104212} = {EA4187E1-8F2E-4BF1-85CE-7981D6FC1B43}
+		{53EEFD08-0824-4877-AC3E-B042A3FCB653} = {EA4187E1-8F2E-4BF1-85CE-7981D6FC1B43}
+		{3E1FDE57-E92A-4AF7-B15C-7ECDF5AD6F96} = {EA4187E1-8F2E-4BF1-85CE-7981D6FC1B43}
+		{CD4D8672-7CDC-429C-8A97-9E6777A15A1F} = {42947396-3B61-4AA9-B108-312C32041205}
+		{A8D628C5-431D-43EA-8DE1-B9929980191D} = {1D1C2BE7-D3DA-4057-A3DC-01811BC6A9A6}
+		{EB51792C-248A-49F0-A5ED-87C8616C4B60} = {164CF201-9F6E-47D9-B25C-34F770D09258}
+	EndGlobalSection
+EndGlobal

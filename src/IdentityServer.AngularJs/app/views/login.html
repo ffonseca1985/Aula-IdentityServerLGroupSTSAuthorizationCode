@@ -1,0 +1,72 @@
+﻿
+<div class="container">
+
+    <form name="formularioLogin"
+          novalidate
+          class="form-horizontal"
+          ng-submit="vm.logar(vm.login)">
+
+        <!--Login-->
+        <div class="form-group">
+            <div class="col-xs-2">
+                <label class="control-label">
+                    Login*
+                </label>
+            </div>
+            <div class="col-xs-10">
+                <input type="text"
+                       name="nome"
+                       class="form-control"
+                       ng-model="vm.login.nome"
+                       required />
+            </div>
+        </div>
+
+        <!--Senha-->
+        <div class="form-group">
+            <div class="col-xs-2">
+                <label class="control-label">
+                    Senha*
+                </label>
+            </div>
+            <div class="col-xs-10">
+                <input type="password"
+                       name="senha"
+                       class="form-control"
+                       ng-model="vm.login.senha"
+                       required />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-xs-2"></div>
+            <div class="col-xs-10">
+                <button type="submit"
+                        class="btn btn-primary form-control"
+                        ng-disabled="formularioLogin.$invalid">
+                    <span class="glyphicon glyphicon-log-in">
+                        Login
+                    </span>
+                </button>
+            </div>
+        </div>
+
+        <!--Mensagem de status do Login-->
+        <!--
+            Qual a diferença entre ng-if e ng-show???
+            Resposta: ng-if = não constroe o elemento
+                      ng-show = esconde o elemento
+         -->
+        <div class="form-group error-login"
+             ng-if="vm.status != undefined && vm.status != ''">
+            <div class="col-xs-2"></div>
+            <div class="col-xs-10">
+                <!--Colocar o status do login-->
+                   <div class="alert alert-info"
+                        ng-bind="vm.status">
+                   </div>
+            </div>
+        </div>
+
+    </form>
+</div>

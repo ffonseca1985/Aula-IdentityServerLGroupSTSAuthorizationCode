@@ -1,0 +1,248 @@
+﻿<div class="container">
+    <!--<pre>
+        {{formularioCadastro | json}}
+        {{usuario | json}}
+    </pre>-->
+    <div class="row">
+        <div class="col-xs-12">
+            <form class="form-horizontal"
+                  name="formularioCadastro"
+                  ng-submit="add(usuario)"
+                  novalidate>
+
+                <div class="form-group">
+                    <div class="col-xs-3">
+                        <label>Nome</label>
+                    </div>
+                    <div class="col-xs-6">
+                        <input type="text"
+                               ng-model="usuario.nome"
+                               name="nome"
+                               required
+                               class="form-control" />
+                        <!-- ng-show Mostra dada uma condição -->
+                        <!-- ng-hide Esconde dada uma condição -->
+                        <!-- De inicio precisamos verificar se o formulario já foi
+                            modificado, ou seja, é virgem (pristine)-->
+                        <p ng-show="formularioCadastro.nome.$error.required &&
+                           !formularioCadastro.nome.$pristine"
+                           class="text-danger">
+                            O usuario deve ser informado
+                        </p>
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+                    <div class="col-xs-3">
+                        <label>Email</label>
+                    </div>
+                    <div class="col-xs-6">
+                        <input type="email"
+                               ng-model="usuario.email"
+                               name="email"
+                               required
+                               class="form-control" />
+
+                        <p ng-show="formularioCadastro.email.$error.required &&
+                           !formularioCadastro.email.$pristine"
+                           class="text-danger">
+                            O email deve ser informado
+                        </p>
+                        <p ng-show="formularioCadastro.email.$error.email"
+                           class="text-danger">
+                            O formato dever ser de um e-mail
+                        </p>
+
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+                    <div class="col-xs-3">
+                        <label>Telefone</label>
+                    </div>
+                    <div class="col-xs-6">
+                        <input type="tel"
+                               ng-model="usuario.telefone"
+                               name="telefone"
+                               ng-pattern="/^\([0-9]{2}\)9[0-9]{4}-[0-9]{4}$/"
+                               required
+                               class="form-control" />
+
+                        <p ng-show="formularioCadastro.telefone.$error.required
+                           && !formularioCadastro.telefone.$pristine" class="text-danger">
+                            O telefone deve ser informado
+                        </p>
+                        <p ng-show="formularioCadastro.telefone.$error.pattern"
+                           class="text-danger">
+                            O telefone esta com o formato inválido
+                        </p>
+                    </div>
+                </div>
+
+                <!--Combobox-->
+                <div class="form-group">
+                    <div class="col-xs-3">
+                        <label>Profissões</label>
+                    </div>
+                    <div class="col-xs-6">
+                        <!--Para usar o html select com angular
+                            existe a diretiva ng-options
+                            ng-options="profissao.id as profissao.nome for profissao in profissoes">
+                            -->
+                        <select class="form-control"
+                                ng-model="usuario.profissao"
+                                name="profissao"
+                                required
+                                ng-options="profissao.nome for profissao in profissoes">
+                            <option value="">Selecione uma Profissão</option>
+                        </select>
+
+                        <p ng-show="formularioCadastro.profissao.$error.required
+                           && !formularioCadastro.profissao.$pristine" class="text-danger">
+                            A profissão deve ser informada
+                        </p>
+
+                        <!--{{usuario.profissao}}-->
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-xs-offset-3 col-xs-6">
+                        <!--<button class="btn btn-primary"
+                                type="button"
+                                ng-click="add(usuario)">-->
+                        <!--ng-disabled => habita ou desabilita dada uma condição-->
+                        <!--Para validar o formulario basta usar as propriedades
+                            do formulario-->
+                        <button class="btn btn-primary"
+                                type="submit"
+                                ng-disabled="formularioCadastro.$invalid">
+                            <span class="glyphicon glyphicon-save"></span>
+                            Adicionar
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+
+        <div class="col-xs-12">
+            <form class="form-horizontal">
+                <fieldset>
+                    <legend>Quantidade:</legend>
+                    <div class="form-group">
+                        <div class="col-xs-3">
+                            <label class="control-label">Máxima</label>
+                        </div>
+                        <div class="col-xs-3">
+                            <input type="number"
+                                   ng-model="qtdeMaxima"
+                                   class="form-control" />
+                        </div>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+
+        <div class="col-xs-12">
+            <form class="form-horizontal">
+                <fieldset>
+                    <legend>Filtro por:</legend>
+                    <div class="form-group">
+                        <div class="col-xs-3">
+                            <label class="control-label">Nome</label>
+                        </div>
+                        <div class="col-xs-3">
+                            <input type="text"
+                                   ng-model="filter.nome" class="form-control" />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-xs-3">
+                            <label class="control-label">Email</label>
+                        </div>
+                        <div class="col-xs-3">
+                            <input type="text"
+                                   ng-model="filter.email"
+                                   class="form-control" />
+                        </div>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+
+        <div class="col-xs-12">
+            <form class="form-horizontal">
+                <fieldset>
+                    <legend>Filtro customizado por:</legend>
+                    <div class="form-group">
+                        <div class="col-xs-3">
+                            <label class="control-label">Data</label>
+                        </div>
+                        <div class="col-xs-3">
+                            <input type="text"
+                                   ng-model="dataNascimento" 
+                                   class="form-control" />
+                        </div>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+
+        <div class="col-xs-12">
+
+            <table class="table
+                       table-bordered
+                       table-condensed
+                       table-hover
+                       stable-striped">
+                <thead>
+                    <tr>
+                        <th ng-init="ordem=false"
+                            ng-click="ordem=!ordem"
+                            style="cursor:pointer">
+                            Nome <span class="glyphicon glyphicon-sort"></span>
+                        </th>
+                        <th>Idade</th>
+                        <th>Email</th>
+                        <th>Telefone</th>
+
+                        <th>Salario</th>
+                        <th>Data Nascimento</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!--false => asc => do menor para o maior -->
+                    <!--true => desc => do maior para o menor -->
+                    <tr ng-repeat="usuario in usuarios
+                            | orderBy: 'nome' : ordem
+                            | limitTo: qtdeMaxima
+                            | filter: filter
+                            | usuarioBy: dataNascimento" 
+                        ng-click="redirecionarDetalhe(usuario)">
+
+
+                        <!--A nomenclatura de um filter é sempre: | + nomeFilter -->
+                        <!--uppercase => tranf em letra maiscula -->
+                        <td ng-bind="usuario.nome | uppercase"></td>
+                        <td ng-bind="usuario.idade"></td>
+
+                        <!--lowercase => tranf em letra minuscula -->
+                        <td ng-bind="usuario.email | lowercase"></td>
+
+                        <td ng-bind="usuario.telefone"></td>
+
+                        <!--currency => tranf em formato de moeda -->
+                        <td ng-bind="usuario.salario | currency"></td>
+
+                        <!--date => tranf em formatod data custumizada -->
+                        <td ng-bind="usuario.dataNascimento | date: 'MM/dd/yyyy'"></td>
+
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+</div>

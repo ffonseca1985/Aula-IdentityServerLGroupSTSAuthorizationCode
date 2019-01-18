@@ -1,0 +1,20 @@
+﻿
+
+/*Meu estado inicial*/
+#div1{
+    width:100px;
+    height:100px;
+    background-color:#ff6a00;
+    transition: width 2s, height 3s; /*estou dizendo o comportamento da transição*/
+    -webkit-transition:width 2s, height 3s;
+    -moz-transition:width 2s, height 3s;
+    -o-transition:width 2s, height 3s;
+    opacity: 0.5; /*a opacidade vai de 0 a 1*/ 
+}
+
+/*Meu estado depois bo hover*/
+#div1:hover{
+    width:300px;
+    height:300px;
+    opacity: 1;
+}
